@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Ivan Cernadas</h1>
 <h3 align="center">Un estudiante actualmente cursando 2DAW en el instituto Montecastelo, Vigo</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: cernadasfragueiroivan@gmail.com</h3>
 <p align="left">
 </p>
 
